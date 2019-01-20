@@ -21,4 +21,4 @@ for x in range(i+1,i+20):
 	y = index + ',' + str(value) + '\n'
 	data.write(y)
 	data.close()
-	time.sleep(1.5)
+	time.sleep(1)
